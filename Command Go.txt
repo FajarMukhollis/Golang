@@ -1,0 +1,7 @@
+go mod init (namafile yang ingin dibuat) -> untuk membuat module
+go run (nama file) -> untuk merunning file
+go build -> berfungsi untuk membuat. lalu jika ingin menjalakan sebuah file, tidak perlu menggunakan perintah " go run (nama file) "
+go get -> untuk menambahkan library
+go install -> untuk install
+go downlaod -> untuk mendownload
+go test -> menjalankan unit test
